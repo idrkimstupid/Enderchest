@@ -1,13 +1,6 @@
-tired of accidentily breaking your enderchest without silktouch? this mod should fix that!
+Tired of accidentily breaking your enderchest without silktouch?
+This lightweight mod prevents you from breaking enderchests without silktouch.
 
+You can toggle it ingame with: /togglesilktouchenderchest
 
-this lightweight mods doesnt let you break enderchests without an silktouch item.
-
-you can toggle it with /togglesilktouchenderchest.
-
-
-
-
-
-
-this is my first public mod, im not sure if i will continue updating it.
+Mod expected to be released for Minecraft 1.21.5+.Tired of accidentily breaking your enderchest without silktouch?
