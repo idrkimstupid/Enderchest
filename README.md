@@ -3,4 +3,4 @@ This lightweight mod prevents you from breaking enderchests without silktouch.
 
 You can toggle it ingame with: /togglesilktouchenderchest
 
-Mod expected to be released for Minecraft 1.21.5+.
+Ill try my best to continue updating this mod.
